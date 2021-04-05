@@ -183,7 +183,7 @@ input::-webkit-inner-spin-button {
               <br>
               <div class="container-fluid" >
               <h4 class="font-weight-30" style="margin-top: 2%;">
-                tedxdypatilu@gmail.com
+              info.tedx@dypatil.edu
               </h4>
               <p class="margin-8 no-margin-bottom no-margin-rl font-family-alt text-extra-large text-center">
                 Send us your queries by email.<br>
@@ -274,7 +274,7 @@ input::-webkit-inner-spin-button {
               <br>
               <div class="container-fluid" >
               <h4 class="font-weight-300 letter-spacing-1" style="margin-top: 2%;">
-                D Y PATIL UNIVERSITY
+              IT DEPARTMENT, D Y PATIL UNIVERSITY
               </h4>
               <p class="margin-8 no-margin-bottom no-margin-rl font-family-alt text-extra-large text-center">
                  Sector 7, Nerul,Navi Mumbai,<br>Maharashtra 400706.
