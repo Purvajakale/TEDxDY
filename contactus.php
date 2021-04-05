@@ -304,16 +304,41 @@ input::-webkit-inner-spin-button {
           <h2>Address</h2>
           <div class="content">
             <div class="place">
-              <span class="fas fa-map-marker-alt"></span>
-              <span class="text">D Y Patil University, Navi Mumbai</span>
+              <!-- <span class="fas fa-map-marker-alt"></span>
+              <span class="text">Sector 7, D Y Patil University, Nerul, Navi Mumbai 400706</span> -->
+              <table>
+              <tr>
+                <td rowspan=2> <span class="fas fa-map-marker-alt"></span></td>
+                <td><span class="text">Sector 7, D Y Patil University,</span></td>
+              </tr>
+              <tr>
+               <td><span class="text">Nerul, Navi Mumbai 400706</span></td>
+              </tr>
+              </table>
             </div>
             <div class="phone">
-              <span class="fas fa-phone-alt"></span>
-              <span class="text"> IT OFFICE : +91 72768 80013</span>
+            <table>
+              <tr>
+                <td rowspan=2> <span class="fas fa-phone-alt"></span></td>
+                <td><span class="text">IT Department,</span></td>
+              </tr>
+              <tr>
+               <td><span class="text">DY Patil University: +91 7276880013</span></td>
+              </tr>
+              </table>
+              <!-- <span class="fas fa-phone-alt"></span>
+              <span class="text">IT Department, DY Patil University: +91 7276880013</span> -->
             </div>
             <div class="email">
-              <span class="fas fa-envelope"></span>
-              <span class="text">dypatilu@gmail.com</span>
+              <table>
+              <tr>
+                <td rowspan=2> <span class="fas fa-envelope"></span></td>
+                <td><span class="text">info.tedx@dypatil.edu</span></td>
+              </tr>
+              <tr>
+               <td><span class="text">partnerships.tedx@dypatil.edu</span></td>
+              </tr>
+              </table>
             </div>
           </div>
         </div>
